@@ -12,6 +12,7 @@ class Cat{
   }
   say(){
     console.log(this);
+    alert(555)
   }
 }
 
